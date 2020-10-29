@@ -11,3 +11,7 @@ const a = 2;
 const b = 2;
 
 const c = 3;
+
+function foo() {
+  return true;
+}
