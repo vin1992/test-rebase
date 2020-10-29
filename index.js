@@ -18,3 +18,7 @@ const c = 3;
 function foo() {
   return true;
 }
+
+function bar() {
+  return false;
+}
