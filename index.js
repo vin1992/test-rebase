@@ -9,3 +9,5 @@ const obj = {name: 'zs', age: 21};
 const a = 2;
 
 const b = 2;
+
+const c = 3;
