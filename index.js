@@ -22,3 +22,6 @@ function foo() {
 function bar() {
   return false;
 }
+function boo() {
+  return 1;
+}
