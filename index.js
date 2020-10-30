@@ -1,12 +1,9 @@
-let str2 = 'hello world';
+let str2 = "hello world";
 let num = 100;
 let num1 = 150;
 let num2 = 200;
 let num3 = 300;
 
-const DOOM = 'dark world';
-
-const fixBug = 'fix it';
 const obj = {name: 'zs', age: 21};
 
 const a = 2;
@@ -24,4 +21,5 @@ function bar() {
 }
 function boo() {
   return 1;
+}
 }
