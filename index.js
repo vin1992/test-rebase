@@ -1,4 +1,4 @@
-let str2 = "hello world";
+let str2 = 'hello world';
 let num = 100;
 let num1 = 150;
 let num2 = 200;
@@ -23,7 +23,15 @@ function boo() {
   return 1;
 }
 
-
 function arr2str(arr) {
   return arr.join('');
 }
+function str2arr(str) {
+  return str.split('');
+}
+
+const map = {
+  ONE: 'China',
+  TWO: 'America',
+  THREE: 'Russia',
+};
