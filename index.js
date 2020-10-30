@@ -22,4 +22,4 @@ function bar() {
 function boo() {
   return 1;
 }
-}
+
