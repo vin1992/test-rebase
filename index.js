@@ -23,3 +23,7 @@ function boo() {
   return 1;
 }
 
+
+function arr2str(arr) {
+  return arr.join('');
+}
