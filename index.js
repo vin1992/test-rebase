@@ -34,6 +34,7 @@ const map = {
   ONE: 'China',
   TWO: 'America',
   THREE: 'Russia',
+  FOUR:'GERMAN'
 };
 
 let arr = [1, 2, , 3];
