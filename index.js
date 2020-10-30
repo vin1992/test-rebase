@@ -45,3 +45,5 @@ console.log(arr);
 console.log('nihao');
 
 let isLoading = true;
+
+console.log('today is the end');
